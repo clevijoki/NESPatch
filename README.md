@@ -1,6 +1,6 @@
 # NESPatch
 
-A patch for the Hoxton Owl pedal that makes your guitar sound like an NES
+A patch for the Hoxton Owl pedal that makes your guitar sound like an NES. This does no pitch or frequency detection that would make it unsuitible for live usage, it shapes the existing waves, so all guitar harmonics remain present.
 
 ## Knobs
 
