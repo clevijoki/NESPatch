@@ -40,6 +40,7 @@ class NESPatch : public Patch
 		return x*x;
 	}
 
+	// from https://en.wikipedia.org/wiki/Xorshift
 	static inline uint32_t xorshift32(uint32_t *state)
 	{
 		/* Algorithm "xor" from p. 4 of Marsaglia, "Xorshift RNGs" */
